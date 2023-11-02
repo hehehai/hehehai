@@ -1,7 +1,7 @@
 ### 👋  Hi there
 
-- 🔭 I’m currently working on [arco-vue](https://github.com/arco-design/arco-design-vue)
-- 🌱 I’m currently learning react
+- 🔭 I’m currently working on color picker
+- 🌱 I’m currently learning react, next.js
 - 👯 I’m looking to collaborate on Vue3 component ecology
 - 📫 How to reach me: riverhohai@gmail.com
 - 😶‍🌫️ Follow me on [Twitter](https://twitter.com/riverhohai).
@@ -12,7 +12,7 @@
 <!--
 **hehehai/hehehai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:∑
 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
