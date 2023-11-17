@@ -1,6 +1,6 @@
 ### 👋  Hi there
 
-- 🔭 I’m currently working on color picker
+- 🔭 I’m currently working on [Coolos](https://github.com/hehehai/coolos)
 - 🌱 I’m currently learning react, next.js
 - 👯 I’m looking to collaborate on Vue3 component ecology
 - 📫 How to reach me: riverhohai@gmail.com
