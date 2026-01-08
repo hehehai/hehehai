@@ -7,7 +7,7 @@
 - 😶‍🌫️ Follow me on [X.com](https://x.com/riverhohai).
 - 🤪 About me [一块木头](https://hehehai.cn)
 
-<img align="left" src="https://github.actnow.dev/api/v1?username=hehehai&ring_color=%232f82ed"/>
+<img align="left" src="https://github.actnow.dev/api/v1?username=hehehai&theme=github_light&font=outfit&border_color=%23e3e1e1&emoji_set=noto&border_radius=10&ring_color=%232f82ed"/>
 
 <!--
 **hehehai/hehehai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
